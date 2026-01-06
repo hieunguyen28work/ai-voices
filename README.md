@@ -103,4 +103,7 @@ Dùng để test trên Postman hoặc play trực tiếp trên trình duyệt.
 ISC
 
 ## Demo audio
+- Giọng nam
 https://drive.google.com/file/d/1lJJ8KyikYYeLJ89cJ7i1ipqnPhqOtvDX/view?usp=sharing 
+- Giọng nữ
+https://drive.google.com/file/d/1aWDpxGTu3h5_yuPrZh0cRC5In4RdgiKi/view?usp=sharing 
